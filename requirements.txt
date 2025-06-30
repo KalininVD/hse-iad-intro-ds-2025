@@ -10,6 +10,8 @@ scikit-learn
 scipy
 nltk
 plotly
+mlxtend
 xgboost
 catboost
 lightgbm
+optuna
