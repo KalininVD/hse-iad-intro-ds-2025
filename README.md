@@ -22,6 +22,11 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 1: NumPy basics
 
+* **Notebook:** [`hw01-numpy/hw01-numpy.ipynb`](./hw01-numpy/hw01-numpy.ipynb)
+* **Score:** `5 / 5`
+* **Description:** This assignment is an introduction to the NumPy library, with a strong emphasis on **vectorized computations**. A core requirement was to solve all problems **without using Python loops (`for`, `while`) or `if` statements**, forcing a "NumPy-native" approach. The tasks cover a range of fundamental operations: creating and manipulating arrays, applying mathematical functions, using advanced indexing (boolean, slicing with steps), sorting a 2D array by a specific column, and implementing a Min-Max scaler for data normalization.
+* **Key skills:** `NumPy`, `Vectorization`, `Boolean Indexing`, `Array Slicing & Manipulation`, `Data Normalization`.
+
 ## Homework 2: Pandas for data processing
 
 ## Homework 3: EDA (Exploratory Data Analysis)
