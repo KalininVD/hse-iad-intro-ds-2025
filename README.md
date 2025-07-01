@@ -59,6 +59,11 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 6: Working with Texts
 
+* **Notebook:** [`hw06-texts/hw06_texts.ipynb`](./hw06-texts/hw06_texts.ipynb)
+* **Score:** `10 / 10`
+* **Description:** This homework introduces the fundamentals of Natural Language Processing (NLP) by processing a dataset of tweets about coronavirus. The main goal was to convert raw text data into a numerical format suitable for machine learning. Key tasks included text cleaning, tokenization, stop-word removal, and vectorization using two classic approaches: **Bag of Words (BoW)** and **TF-IDF**. The assignment culminated in training a simple classification model on the resulting feature vectors to demonstrate the effectiveness of the text preprocessing pipeline.
+* **Key skills:** `NLP`, `Text Preprocessing`, `Tokenization`, `Bag of Words (BoW)`, `TF-IDF`, `scikit-learn`, `NLTK`, `Regular Expressions`.
+
 ## Homework 7: Decision Trees (with bonuses: no for loops, missing values handling and feature importance calculation)
 
 ## Homework 8: Boosting and Clustering
