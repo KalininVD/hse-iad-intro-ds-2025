@@ -43,6 +43,13 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 4: k-NN and Linear Regression
 
+* **Notebook:** [`hw04-knn-linreg/hw04_knn_linreg.ipynb`](./hw04-knn-linreg/hw04_knn_linreg.ipynb)
+* **Score:** `10 / 10`
+* **Description:** This comprehensive assignment covers two fundamental machine learning algorithms.
+  * **k-Nearest Neighbors (k-NN):** The first part focuses on k-NN for classification, starting with building and visualizing decision boundaries using `mlxtend` to understand the impact of the `k` parameter. A key task was to implement the k-NN algorithm from scratch, demonstrating an understanding of its core mechanics.
+  * **Linear Regression:** The second part explores linear regression for predicting diamond prices. This included preprocessing categorical features with one-hot encoding and scaling numerical features. The assignment also delved into handling multicollinearity by applying and comparing **Lasso (L1)** and **Ridge (L2)** regularization, including finding the optimal alpha for Lasso using `LassoCV`.
+* **Key skills:** `k-NN`, `Linear Regression`, `Lasso (L1)`, `Ridge (L2)`, `scikit-learn`, `mlxtend`, `Feature Engineering`, `Regularization`, `Model Evaluation`.
+
 ## Homework 5: Gradient Descent (with bonus: simulating annealing implementation)
 
 ## Homework 6: Working with Texts
