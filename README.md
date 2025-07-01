@@ -66,6 +66,11 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 7: Decision Trees (with bonuses: no for loops, missing values handling and feature importance calculation)
 
+* **Notebook:** [`hw07-trees/hw-07.ipynb`](./hw07-trees/hw-07.ipynb)
+* **Score:** `13 / 10`
+* **Description:** This assignment required implementing a **Decision Tree for classification from scratch**. The highlight of this work is the advanced, **fully vectorized implementation** that avoids all explicit Python `for` loops. The implementation also includes several bonus features: native handling of **missing values** and the calculation of **feature importance** based on Gini impurity reduction. The project culminated in a comprehensive performance analysis, benchmarking the scikit-learn's decision tree against ensemble methods, `BaggingClassifier` and `RandomForestClassifier`, using `Accuracy`, `Precision`, `Recall` and `ROC AUC` metrics.
+* **Key skills:** `Decision Tree`, `Bagging`, `Random Forest`, `Vectorization`, `NumPy`, `Feature Importance`, `Gini Impurity`, `Handling Missing Values`, `Algorithms from Scratch`, `Model Evaluation`.
+
 ## Homework 8: Boosting and Clustering
 
 ## How to reproduce locally
