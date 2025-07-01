@@ -36,6 +36,11 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 3: EDA (Exploratory Data Analysis)
 
+* **Notebook:** [`hw03-eda/hw-03.ipynb`](./hw03-eda/hw-03.ipynb)
+* **Score:** `10 / 10`
+* **Description:** This project provides a deep dive into Exploratory Data Analysis (EDA) on a human activity recognition dataset from smartphone sensors. After thorough data preprocessing and class balance analysis, the core of the work involved uncovering data patterns through correlation analysis and building visualizations with `matplotlib` and `seaborn`. The insights gained from the EDA were directly used to develop a `predict` method based on simple feature comparisons, which achieved a **71% accuracy** on the test set.
+* **Key skills:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis (EDA)`, `Data Preprocessing`, `Feature Engineering`, `Hypothesis Testing`.
+
 ## Homework 4: k-NN and Linear Regression
 
 ## Homework 5: Gradient Descent (with bonus: simulating annealing implementation)
