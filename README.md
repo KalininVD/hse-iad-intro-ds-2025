@@ -14,7 +14,7 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 - [Homework 2: Pandas for data processing](#homework-2-pandas-for-data-processing)
 - [Homework 3: EDA (Exploratory Data Analysis)](#homework-3-eda-exploratory-data-analysis)
 - [Homework 4: k-NN and Linear Regression](#homework-4-k-nn-and-linear-regression)
-- [Homework 5: Gradient Descent (with bonus: simulating annealing implementation)](#homework-5-gradient-descent-with-bonus-simulating-annealing-implementation)
+- [Homework 5: Gradient Descent (with bonus: simulated annealing implementation)](#homework-5-gradient-descent-with-bonus-simulated-annealing-implementation)
 - [Homework 6: Working with Texts](#homework-6-working-with-texts)
 - [Homework 7: Decision Trees (with bonuses: no for loops, missing values handling and feature importance calculation)](#homework-7-decision-trees-with-bonuses-no-for-loops-missing-values-handling-and-feature-importance-calculation)
 - [Homework 8: Boosting and Clustering](#homework-8-boosting-and-clustering)
@@ -50,7 +50,12 @@ This repository contains all the homeworks for the 1st semester of the Machine L
   * **Linear Regression:** The second part explores linear regression for predicting diamond prices. This included preprocessing categorical features with one-hot encoding and scaling numerical features. The assignment also delved into handling multicollinearity by applying and comparing **Lasso (L1)** and **Ridge (L2)** regularization, including finding the optimal alpha for Lasso using `LassoCV`.
 * **Key skills:** `k-NN`, `Linear Regression`, `Lasso (L1)`, `Ridge (L2)`, `scikit-learn`, `mlxtend`, `Feature Engineering`, `Regularization`, `Model Evaluation`.
 
-## Homework 5: Gradient Descent (with bonus: simulating annealing implementation)
+## Homework 5: Gradient Descent (with bonus: simulated annealing implementation)
+
+* **Notebook:** [`hw05-gd/hw05_gd.ipynb`](./hw05-gd/hw05_gd.ipynb)
+* **Score:** `12 / 10`
+* **Description:** This assignment focused on the practical implementation and analysis of gradient-based optimization for linear regression. The core of the work involved **implementing both batch and stochastic gradient descent (SGD) from scratch**. A detailed analysis of their hyperparameters was conducted, particularly examining the impact of the **learning rate** on the convergence trajectory and speed. As a bonus task, the **Simulated Annealing** algorithm was implemented, providing an opportunity to explore a powerful metaheuristic for global optimization.
+* **Key skills:** `Gradient Descent (GD)`, `Stochastic Gradient Descent (SGD)`, `Hyperparameter Tuning`, `Learning Rate`, `Loss Functions`, `Optimization Algorithms`, `Simulated Annealing`, `NumPy`, `Matplotlib`.
 
 ## Homework 6: Working with Texts
 
