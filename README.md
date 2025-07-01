@@ -29,6 +29,11 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 2: Pandas for data processing
 
+* **Notebook:** [`hw02-pandas/hw02_pandas.ipynb`](./hw02-pandas/hw02_pandas.ipynb)
+* **Score:** `5 / 5`
+* **Description:** This assignment delves into advanced data manipulation techniques using the Pandas library on a dataset of social media account metrics. Key tasks included: feature engineering (discretizing a continuous variable with `qcut`), data reshaping (transforming data from wide to long format with `melt` and creating summary tables with `pivot_table`), and performing complex group-wise operations (such as solving the "top-N-per-group" problem). A notable part of the homework was a practical demonstration of the performance benefits of vectorized operations in Pandas compared to standard Python loops for data processing.
+* **Key skills:** `Pandas`, `Grouping & Aggregation`, `Data Reshaping`, `Feature Engineering`, `Pivot Tables`, `Vectorization`.
+
 ## Homework 3: EDA (Exploratory Data Analysis)
 
 ## Homework 4: k-NN and Linear Regression
