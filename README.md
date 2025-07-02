@@ -73,6 +73,13 @@ This repository contains all the homeworks for the 1st semester of the Machine L
 
 ## Homework 8: Boosting and Clustering
 
+* **Notebook:** [`hw08-boosting-clustering/hw-08.ipynb`](./hw08-boosting-clustering/hw-08.ipynb)
+* **Score:** `10 / 10`
+* **Description:** This final assignment covered two major topics in machine learning: boosting and clustering.
+    * **Boosting:** The first part involved a comparative study of the three main gradient boosting libraries (`XGBoost`, `LightGBM`, and `CatBoost`) on a regression task of predicting data science salaries. This included not only training powerful models but also performing careful **hyperparameter tuning** to maximize predictive performance.
+    * **Clustering:** The second part explored unsupervised learning by applying the **K-Means algorithm** to segment musicians based on listener preferences. Key challenges included data normalization to handle outliers, finding the optimal number of clusters with the **Silhouette Score**, and interpreting the resulting clusters using **t-SNE** for visualization.
+* **Key skills:** `Gradient Boosting`, `XGBoost`, `LightGBM`, `CatBoost`, `Hyperparameter Tuning`, `Unsupervised Learning`, `Clustering`, `K-Means`, `t-SNE`, `scikit-learn`, `Data Visualization`.
+
 ## How to reproduce locally
 
 First, clone the repository:
